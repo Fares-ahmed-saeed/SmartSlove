@@ -4,7 +4,7 @@
 
 **Calculator v2.0 | MIT License | JavaScript | Web Platform**
 
-<a href="https://smart-solve.vercel.app/" target="_blank" rel="noopener noreferrer">
+<a href="[https://smart-solve.vercel.app/](https://smart-slove.vercel.app/)" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/🧮_SmartSolve_Demo-4ECDC4?style=for-the-badge&logoColor=white" alt="SmartSolve Demo" />
 </a>
 
